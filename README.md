@@ -46,7 +46,7 @@ source venv/bin/activate</code></pre>
 
 <h3>7. Access API Documentation</h3>
 <p>Visit the following URL to view the API documentation:</p>
-<p><a href="http://127.0.0.1:8000/swagger">http://127.0.0.1:8000/swagger</a></p>
+<p><a href="http://127.0.0.1:8000/swagger">http://127.0.0.1:8000/swagger/</a></p>
 
 <h2>Contributing</h2>
 <p>Contributions are welcome! To gain a deeper understanding of API and DRF, fork the project and participate in its development.</p>
