@@ -1,12 +1,12 @@
 <h1>Wall API</h1>
 
-<p><strong>Wall API</strong> is a Django project based on DRF (Django REST Framework) designed to share advertisements. This project adheres to best practices for test writing, clean coding principles, and is documented and visualized with Swagger.</p>
+<h2>a real world open source example of django-rest-framework (DRF)</h2>
 
 <h2>Some Features</h2>
 <ul>
-    <li>Compliance with DRF test writing principles</li>
-    <li>Adherence to clean coding principles</li>
-    <li>Documented and visualized using Swagger</li>
+    <li>Compliance with the principles of test writing DRF</li>
+    <li>Compliance with the principles of clean coding</li>
+    <li>Documented and visualized by Swagger</li>
 </ul>
 
 <h2>Getting Started</h2>
